@@ -1,5 +1,7 @@
 package hp.rest.webservice;
 
+import java.util.Objects;
+
 public class Employee {
     private String id;
     private String first_name;
@@ -8,6 +10,19 @@ public class Employee {
     private String title;
 
     public Employee() {}
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Employee employee = (Employee) o;
+        return Objects.equals(id, employee.id) && Objects.equals(first_name, employee.first_name) && Objects.equals(last_name, employee.last_name) && Objects.equals(email, employee.email) && Objects.equals(title, employee.title);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(id, first_name, last_name, email, title);
+    }
 
     public Employee(String id, String first_name, String last_name, String email, String title){
         this.id = id;
