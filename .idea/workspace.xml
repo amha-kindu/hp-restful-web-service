@@ -49,50 +49,50 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EmployeeControllerTest">
-    <configuration name="EmployeeControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.EmployeeRestControllerTest">
+    <configuration name="EmployeeRestControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hp-restful-webservice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EmployeeControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="EmployeeRestControllerTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeControllerTest.addEmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EmployeeRestControllerTest.addEmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hp-restful-webservice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EmployeeControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="EmployeeRestControllerTest" />
       <option name="METHOD_NAME" value="addEmployeeTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeControllerTest.greetingShouldReturnDefaultMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EmployeeRestControllerTest.greetingShouldReturnDefaultMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hp-restful-webservice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EmployeeControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="EmployeeRestControllerTest" />
       <option name="METHOD_NAME" value="greetingShouldReturnDefaultMessage" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeControllerTest.removeEmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EmployeeRestControllerTest.removeEmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hp-restful-webservice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EmployeeControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="EmployeeRestControllerTest" />
       <option name="METHOD_NAME" value="removeEmployeeTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeControllerTest.updateEmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EmployeeRestControllerTest.updateEmployeeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hp-restful-webservice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EmployeeControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="EmployeeRestControllerTest" />
       <option name="METHOD_NAME" value="updateEmployeeTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EmployeeControllerTest" />
-        <item itemvalue="JUnit.EmployeeControllerTest.updateEmployeeTest" />
-        <item itemvalue="JUnit.EmployeeControllerTest.removeEmployeeTest" />
-        <item itemvalue="JUnit.EmployeeControllerTest.addEmployeeTest" />
-        <item itemvalue="JUnit.EmployeeControllerTest.greetingShouldReturnDefaultMessage" />
+        <item itemvalue="JUnit.EmployeeRestControllerTest" />
+        <item itemvalue="JUnit.EmployeeRestControllerTest.updateEmployeeTest" />
+        <item itemvalue="JUnit.EmployeeRestControllerTest.removeEmployeeTest" />
+        <item itemvalue="JUnit.EmployeeRestControllerTest.addEmployeeTest" />
+        <item itemvalue="JUnit.EmployeeRestControllerTest.greetingShouldReturnDefaultMessage" />
       </list>
     </recent_temporary>
   </component>

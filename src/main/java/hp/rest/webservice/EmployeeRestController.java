@@ -3,19 +3,18 @@ package hp.rest.webservice;
 
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
 
 @RestController
-public class EmployeeController {
+public class EmployeeRestController {
     private final Map<String, Employee> employees = new HashMap<>();
 
     private final EmployeeManager manager;
 
-    public EmployeeController(EmployeeManager manager){
+    public EmployeeRestController(EmployeeManager manager){
         this.manager = manager;
     }
     @GetMapping("/staff")
